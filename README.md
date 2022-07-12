@@ -1,2 +1,2 @@
 给定n种物品和一个背包。物品i的重量是w[i]，其价值为v[i]，背包容量为c。问应如何选择装入背包中的物品，使得装入背包中物品的总价值最大？在选择装入背包中的物品时，对每种物品i只有两种选择，即装入或者不装入背包。不能将物品i装入背包多次，也不能只装入物品i的部分。因此，该问题被称为0-1背包问题。
-![QQ截图20220710092939](https://github.com/ljlat/Backpack-0-1-problem/blob/master/raw/QQ%E6%88%AA%E5%9B%BE20220712154247.png)
+![QQ截图20220710092939](https://github.com/ljlat/Backpack-0-1-problem/raw/master/20220712154247.png)
